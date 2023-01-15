@@ -1,16 +1,18 @@
-### Hi there 👋
+# hello there!
 
-<!--
-**wattyven/wattyven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  
+  <img src="https://github-readme-stats-khaki-gamma.vercel.app/api?username=wattyven&count_private=true&show_icons=true&line_height=24" alt="watty's github stats"/>
+  <img src="https://github-readme-stats-khaki-gamma.vercel.app/api/top-langs/?username=wattyven&layout=compact" alt="watty's github langs">
+  
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## hi there, i'm watty.
+  
+<p align="center">
+  
+i like video games, books, and manga. my background is in molecular biology, but i'm branching out now and focusing more on cs, which i've had a deep interest in since childhood. 
+    
+i don't have too much on here at the moment, so there shouldn't be any need, but if you need to reach out, please do so on the bird app (for now) which i have linked in my sidebar. 
+  
+</p>

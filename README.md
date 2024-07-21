@@ -2,7 +2,8 @@
 
 <p align="center">
   
-<img src="https://github-readme-stats-khaki-gamma.vercel.app/api?username=wattyven&count_private=true&show_icons=true&line_height=24" alt="watty's github stats"/><img src="https://github-readme-stats-khaki-gamma.vercel.app/api/top-langs/?username=wattyven&layout=compact" alt="watty's github langs">
+<img src="https://github-readme-stats-khaki-gamma.vercel.app/api?username=wattyven&count_private=true&show_icons=true&line_height=24" alt="watty's github stats"/><br>
+<img src="https://github-readme-stats-khaki-gamma.vercel.app/api/top-langs/?username=wattyven&layout=compact" alt="watty's github langs">
   
 </p>
 

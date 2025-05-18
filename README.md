@@ -9,6 +9,4 @@
   
 <p align="center">
   
-my background is in molecular biology, but i'm branching out now and focusing more on cs, and specifically data science, which i've had an interest in since childhood.
-  
 </p>

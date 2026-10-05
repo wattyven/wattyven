@@ -6,8 +6,6 @@
 
 ## hi there, i'm watty.
 
-### check out my latest work:
-
 <p align="center">
   <a href="https://2016.games">
     <img src="https://raw.githubusercontent.com/wattyven/wattyven/refs/heads/main/Screenshot%202026-04-09%20222556.png" alt="Console Video Game Sales Dashboard"/>

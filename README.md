@@ -7,8 +7,8 @@
 ## hi there, i'm watty.
 
 <p align="center">
-  <a href="https://2016.games">
-    <img src="https://raw.githubusercontent.com/wattyven/wattyven/refs/heads/main/Screenshot%202026-04-09%20222556.png" alt="Console Video Game Sales Dashboard"/>
+  <a href="https://mead.watch">
+    <img src="docs/overview.png" alt="MeadWatch: Lake Mead at 1,037.8 ft, October 2026">
   </a>
 </p>
   

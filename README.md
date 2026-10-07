@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://mead.watch">
-    <img src="docs/overview.png" alt="MeadWatch: Lake Mead at 1,037.8 ft, October 2026">
+    <img src="https://raw.githubusercontent.com/wattyven/MeadWatch/main/docs/overview.png" alt="MeadWatch: Lake Mead at 1,037.8 ft, October 2026">
   </a>
 </p>
   
